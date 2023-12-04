@@ -1,0 +1,20 @@
+
+body {
+    background: linear-gradient(rgb(255, 218, 203), #ee8b8b);
+    background-attachment: fixed;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+section {
+    border-top: 1px solid gray;
+    margin-top: 1rem;
+}
+
+
+footer {
+    margin-bottom: 5pc;
+    margin-top: 5pc;
+}
